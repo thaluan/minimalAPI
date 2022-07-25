@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q9eEpyKPPfwEylt6Bj0gd0EWder6C3XYFfHu0rLnz2uetIF1ZT/jeBeXc7Q2m+wjCP/XBOnYAA03V2S19aJWTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thaluan\\source\\repos\\MinimalApi\\MinimalApi\\MinimalApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thaluan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}

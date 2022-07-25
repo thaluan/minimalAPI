@@ -1,0 +1,7 @@
+C:\Users\Thaluan\source\repos\MinimalApi\MinimalApi\obj\Release\net6.0\PubTmp\Out\MinimalApi.exe
+C:\Users\Thaluan\source\repos\MinimalApi\MinimalApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Thaluan\source\repos\MinimalApi\MinimalApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Thaluan\source\repos\MinimalApi\MinimalApi\obj\Release\net6.0\PubTmp\Out\MinimalApi.dll
+C:\Users\Thaluan\source\repos\MinimalApi\MinimalApi\obj\Release\net6.0\PubTmp\Out\MinimalApi.deps.json
+C:\Users\Thaluan\source\repos\MinimalApi\MinimalApi\obj\Release\net6.0\PubTmp\Out\MinimalApi.runtimeconfig.json
+C:\Users\Thaluan\source\repos\MinimalApi\MinimalApi\obj\Release\net6.0\PubTmp\Out\MinimalApi.pdb
