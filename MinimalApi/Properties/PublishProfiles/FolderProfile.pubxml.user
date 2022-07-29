@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Thaluan\source\repos\MinimalApi\MinimalApi\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2022-07-19T18:51:48.5162105Z;</History>
+    <History>True|2022-07-29T11:51:14.3522933Z;True|2022-07-19T15:51:48.5162105-03:00;</History>
   </PropertyGroup>
 </Project>
